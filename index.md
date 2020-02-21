@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+结合现状，为了大家安全，暂时关闭15DAYS，关闭期间处于VIP会员期的会员系统会自动续约VIP会员时间。祝大家安康！
 
 You can use the [editor on GitHub](https://github.com/fuheimao/fuheimao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
